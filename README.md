@@ -1,5 +1,6 @@
 # Processing-projects
 Processing projects
+> **Note on Language:** The user interface, variable names, code comments and file names are written in Italian.
 
 ## Features
 - **Contatore punti:** Graphical application that keeps score of two players.
